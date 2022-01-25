@@ -3,6 +3,8 @@ Discount Calculator Project
 
 The Project is Web API Project And Build in .net core 3.1
 
+This Project follows Repository Design Pattern and use depnedancy injection
+
 
 you need visual studion 2019 or .net runtime 5.0 to run this project
 
